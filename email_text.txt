@@ -1,0 +1,13 @@
+Subject: Research on open source design systems
+
+Hello [[name]],
+
+We are researchers from Polytechnique Montreal (led by Prof. Jinghui Cheng http://jhcheng.me and Prof. Jin Guo http://jguo- web.com ) who are investigating design system development process and their evolution as open source project on Github. As well as their reusability and the motivation of contributors for committing code to design system projects.
+
+We got your contact information from your public GitHub profile. We are asking you to participate in an interview because you seem to be an active contributor to an open source design system project through code committing, bug/issue reporting and discussion, code reviewing, and/or other activities. Particularly, [[repo]].
+
+In the interview, we will ask you questions about your general involvement in open source design systems. Your information and identity will be kept confidential. For people located in the European Union, please find the information regarding the processing of your personal data here as per the General Data Protection Regulation. The interview will take about 1 hour.  If you’d like to participate, please follow this link to confirm your participation in order to receive additional documents required for your participation    [link to a form! ].
+
+If you have any questions about the study, please contact  Jinghui Cheng at jinghui.cheng@polymtl.ca  or Yassine Lamine at yassine.lamine@polymtl.ca. Thank you very much for your time!
+
+ [[sender]] Please reply “unsubscribe” if you do not want to receive future emails from us.
